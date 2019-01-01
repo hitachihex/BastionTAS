@@ -29,29 +29,29 @@ Commands read from input file are in the format of:
    frames, Action
    
 Accepted commands are: <br />
-   Move, xPos, yPos
-   Click (acts as clicking mouse)
-   Attack1
-   Attack2
-   Stop
-   Evade
-   SecretSkill
-   Heal
-   Use
-   Defend
-   Pack (functions as tab)
-   Reload
-   Menu (escape)
-   NextTarget
-   PrevTarget
-   PCancel (alias for Proceed+Menu on same frame)
-   Proceed
+   Move, xPos, yPos <br />
+   Click (acts as clicking mouse) <br />
+   Attack1 <br />
+   Attack2 <br />
+   Stop <br />
+   Evade <br />
+   SecretSkill <br />
+   Heal <br />
+   Use <br />
+   Defend <br />
+   Pack (functions as tab) <br />
+   Reload <br />
+   Menu (escape) <br />
+   NextTarget <br />
+   PrevTarget <br />
+   PCancel (alias for Proceed+Menu on same frame) <br />
+   Proceed <br />
    
    Read,FileName.rec - Accepts a sub-command for the input file to read from <br />
-           Multi-level files are allowed, but must end in .rec and must be in a folder named  Includes in the main game directory.
-   RNG, num
-   Random, num
-   Seed, num
+           Multi-level files are allowed, but must end in .rec and must be in a folder named  Includes in the main game directory. <br />
+   RNG, num <br /> 
+   Random, num <br />
+   Seed, num <br />
       The above function the same, where you set the seed for the RNG generator.
    
     
