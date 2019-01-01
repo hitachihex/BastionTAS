@@ -30,9 +30,9 @@ C:  To copy your cursor location while playing the game (works in paused state\f
 ]: To step one frame (this also reloads the input file so you can make changes to the inputs while framestepping.)
 
 Commands read from input file are in the format of:
-   frames, Action <br />
+   frames,Action <br />
    
-   Note: All commands are case and space insensitive except for Runto and Walkto.
+   Note: All commands are case and space insensitive except for Runto and Walkto. <br />
 Accepted commands are: <br />
    Runto - put this under a line you want to fast forward to breakpoint quickly. <br />
    Walkto - put this under a line you want to run normal speed to breakpoint to. <br />
