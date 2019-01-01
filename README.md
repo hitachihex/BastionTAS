@@ -16,6 +16,10 @@ F4: start/stop playback , read from Bastion.rec in the directory where the game 
 Note: You may use multiple input files, see Commands section for input files.<br/>But note that multi-level applies from the main input file only, so included input files may not read from another file.
 --------------------------------------------------------
 
+Note: TAS operates on raw mouse coordinates, so for playback to work properly on other machines, you will need to TAS at a fixed resolution , preferably something everyone can use if you want to share your input files. Game will probably need to be played at a specific resolution as well, one solution to this: Lock the game window in the upper left corner and use a resolution such as 1024x768.
+--------------------------------------------------------
+
+
 Numpad Plus:   Increase Game Speed
 Numpad Minus:  Decrease Game Speed
 Numpad Divide: Return to normal Game Speed
@@ -29,7 +33,7 @@ Commands read from input file are in the format of:
    frames, Action <br />
    
 Accepted commands are: <br />
-   Move, xPos, yPos <br />
+   Move, xPos, yPos - cursor position (raw coordinates) <br />
    Click (acts as clicking mouse) <br />
    Attack1 <br />
    Attack2 <br />
