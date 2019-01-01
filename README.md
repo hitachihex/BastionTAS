@@ -12,7 +12,7 @@ F1:  to pause/start framestep
 F2: To toggle cursor unlocked mode (if you disable this then you can't use the cursor while paused\framestepping), it's for recording 
 a clean look of playback, otherwise the cursor will jitter between two states.
 
-F4: start playback , read from Bastion.rec in the directory where the game executable is located.
+F4: start/stop playback , read from Bastion.rec in the directory where the game executable is located.
 Note: You may use multiple input files, see Commands section for input files.<br/>But note that multi-level applies from the main input file only, so included input files may not read from another file.
 --------------------------------------------------------
 
