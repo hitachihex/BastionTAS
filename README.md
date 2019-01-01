@@ -32,7 +32,10 @@ C:  To copy your cursor location while playing the game (works in paused state\f
 Commands read from input file are in the format of:
    frames, Action <br />
    
+   Note: All commands are case and space insensitive except for Runto and Walkto.
 Accepted commands are: <br />
+   Runto - put this under a line you want to fast forward to breakpoint quickly. <br />
+   Walkto - put this under a line you want to run normal speed to breakpoint to. <br />
    Move, xPos, yPos - cursor position (raw coordinates) <br />
    Click (acts as clicking mouse) <br />
    Attack1 <br />
