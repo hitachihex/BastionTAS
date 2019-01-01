@@ -26,7 +26,7 @@ C:  To copy your cursor location while playing the game (works in paused state\f
 ]: To step one frame (this also reloads the input file so you can make changes to the inputs while framestepping.)
 
 Commands read from input file are in the format of:
-   frames, Action
+   frames, Action <br />
    
 Accepted commands are: <br />
    Move, xPos, yPos <br />
@@ -49,6 +49,8 @@ Accepted commands are: <br />
    
    Read,FileName.rec - Accepts a sub-command for the input file to read from <br />
            </t >Multi-level files are allowed, but must end in .rec and must be in a folder named  Includes in the main game directory. <br />
+           
+           
    RNG, num <br /> 
    Random, num <br />
    Seed, num <br />
