@@ -16,7 +16,7 @@ F4: start/stop playback , read from Bastion.rec in the directory where the game 
 Note: You may use multiple input files, see Commands section for input files.<br/>But note that multi-level applies from the main input file only, so included input files may not read from another file.
 --------------------------------------------------------
 
-Note: TAS operates on raw mouse coordinates, so for playback to work properly on other machines, you will need to TAS at a fixed resolution , preferably something everyone can use if you want to share your input files. Game will probably need to be played at a specific resolution as well, one solution to this: Lock the game window in the upper left corner and use a resolution such as 1024x768.
+Note: TAS operates on raw mouse coordinates, so for playback to work properly on other machines, you will need to TAS at a fixed resolution , preferably something everyone can use if you want to share your input files. One solution to this: Lock the game window in the upper left corner, windowed mode, and use an in-game resolution such as 1024x768.
 --------------------------------------------------------
 
 
