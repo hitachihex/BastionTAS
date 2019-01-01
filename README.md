@@ -20,9 +20,9 @@ Note: TAS operates on raw mouse coordinates, so for playback to work properly on
 --------------------------------------------------------
 
 
-Numpad Plus:   Increase Game Speed
-Numpad Minus:  Decrease Game Speed
-Numpad Divide: Return to normal Game Speed
+Numpad Plus:   Increase Game Speed <br />
+Numpad Minus:  Decrease Game Speed <br />
+Numpad Divide: Return to normal Game Speed <br />
 
 C:  To copy your cursor location while playing the game (works in paused state\framestepping state.) it will copy it in the format of:
     1,Move,x,y and you can ctrl+v it into the input file for easy use.
