@@ -37,7 +37,7 @@ Accepted commands are: <br />
    Runto - put this under a line you want to fast forward to breakpoint quickly. <br />
    Walkto - put this under a line you want to run normal speed to breakpoint to. <br />
    Move, xPos, yPos - cursor position (raw coordinates) <br />
-   Click (acts as clicking mouse) <br />
+   Click (acts as clicking mouse LMB) <br />
    Attack1 <br />
    Attack2 <br />
    Stop <br />
