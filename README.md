@@ -48,7 +48,7 @@ Accepted commands are: <br />
    Proceed <br />
    
    Read,FileName.rec - Accepts a sub-command for the input file to read from <br />
-           Multi-level files are allowed, but must end in .rec and must be in a folder named  Includes in the main game directory. <br />
+           </t >Multi-level files are allowed, but must end in .rec and must be in a folder named  Includes in the main game directory. <br />
    RNG, num <br /> 
    Random, num <br />
    Seed, num <br />
